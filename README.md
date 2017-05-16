@@ -77,7 +77,7 @@ jar包已经发布到maven中央仓库,直接在pom.xml文件加入下面依赖�
 <h3>task：任务调度类</h3>
 <p>TaskUtils：Java多线程、队列实现任务调度</p>
 
-<h3>package:sensitiveword--J敏感词</h3>
+<h3>package:sensitiveword--敏感词</h3>
 <p>SensitivewordFilterUtil:铭感词过滤工具类</p>
 <p>SensitiveWordInit:初始化敏感词库，将敏感词加入到HashMap中，构建DFA算法模型</p>
 
