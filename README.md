@@ -27,10 +27,10 @@ jar包已经发布到maven中央仓库,直接在pom.xml文件加入下面依赖�
 
 <h3></h3>
 <h3>package:json-json工具类</h3>
-<p>CloneUtils:对阿里巴巴fastjson封装的工具类,提供json操作相关的功能</p>
+<p>FastJSONUtil:对阿里巴巴fastjson封装的工具类,提供json操作相关的功能</p>
 
 <h3></h3>
-<h3>date：时间类</h3>
+<h3>package:date--时间类</h3>
 <p>DateFromatUtils：格式转换工具类</p>
 <p>DateUtils:日期、时间工具类</p>
 <p>TimestampUtils：timeStamp工具类</p>
@@ -58,27 +58,27 @@ jar包已经发布到maven中央仓库,直接在pom.xml文件加入下面依赖�
 <h3>package:ImageUtil--图像处理</h3>
 <p>ImageUtil:图像处理。对图片进行压缩、水印、伸缩变换、透明处理、格式转换操作</p>
 
-<h3>mail:邮件类</h3>
+<h3>package:mail--邮件类</h3>
 <p>EmailUtils:邮件发送工具类</p>
 
-<h3>math：数字类</h3>
+<h3>package:math--数字类</h3>
 <p>BigDecimalUtils：BigDecimal工具类</p>
 
-<h3>random：随机数类</h3>
+<h3>package:random--随机数类</h3>
 <p>RandomUtils:随机数工具类</p>
 
-<h3>QRCode：二维码类</h3>
+<h3>package:QRCode--二维码类</h3>
 <p>MatrixToImageCofig：二维码配置</p>
 <p>MatrixToImageWriter:二维码工具类</p>
 
-<h3>sequence：序列</h3>
+<h3>package:sequence--序列</h3>
 <p>GenerateSequenceUtils：生成唯一的序列</p>
 
-<h3>task：任务调度类</h3>
+<h3>package:task--任务调度类</h3>
 <p>TaskUtils：Java多线程、队列实现任务调度</p>
 
-<h3>package:sensitiveword--J敏感词</h3>
+<h3>package:sensitiveword--敏感词</h3>
 <p>SensitivewordFilterUtil:铭感词过滤工具类</p>
 <p>SensitiveWordInit:初始化敏感词库，将敏感词加入到HashMap中，构建DFA算法模型</p>
 
-<h3>word：word类</h3>
+<h3>package:word--word类</h3>
